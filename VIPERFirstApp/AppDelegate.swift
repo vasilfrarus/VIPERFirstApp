@@ -5,6 +5,9 @@
 //  Created by Vasiliy Fedotov on 28/01/2018.
 //  Copyright © 2018 Vasiliy Fedotov. All rights reserved.
 //
+//  https://blog.mindorks.com/building-ios-app-with-viper-architecture-8109acc72227
+//  https://www.objc.io/issues/13-architecture/viper/
+
 
 import UIKit
 

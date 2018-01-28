@@ -15,6 +15,7 @@
 		E683F969201E53CF00DB19E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E683F967201E53CF00DB19E3 /* LaunchScreen.storyboard */; };
 		E683F972201E541300DB19E3 /* Interactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E683F971201E541200DB19E3 /* Interactor.swift */; };
 		E683F974201E553500DB19E3 /* Entity.swift in Sources */ = {isa = PBXBuildFile; fileRef = E683F973201E553500DB19E3 /* Entity.swift */; };
+		E683F976201E5EA200DB19E3 /* Presenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E683F975201E5EA200DB19E3 /* Presenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		E683F96A201E53CF00DB19E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E683F971201E541200DB19E3 /* Interactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interactor.swift; sourceTree = "<group>"; };
 		E683F973201E553500DB19E3 /* Entity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entity.swift; sourceTree = "<group>"; };
+		E683F975201E5EA200DB19E3 /* Presenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Presenter.swift; sourceTree = "<group>"; };
 		F19FBA059E48F2A41F0302A4 /* Pods-VIPERFirstApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VIPERFirstApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-VIPERFirstApp/Pods-VIPERFirstApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -98,6 +100,7 @@
 			children = (
 				E683F971201E541200DB19E3 /* Interactor.swift */,
 				E683F973201E553500DB19E3 /* Entity.swift */,
+				E683F975201E5EA200DB19E3 /* Presenter.swift */,
 			);
 			path = VIPER;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 				E683F972201E541300DB19E3 /* Interactor.swift in Sources */,
 				E683F961201E53CF00DB19E3 /* ViewController.swift in Sources */,
 				E683F95F201E53CF00DB19E3 /* AppDelegate.swift in Sources */,
+				E683F976201E5EA200DB19E3 /* Presenter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
