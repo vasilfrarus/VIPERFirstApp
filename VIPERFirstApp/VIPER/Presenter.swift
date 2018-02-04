@@ -14,11 +14,11 @@ class Presenter {
         view.showAddItemInterface()
     }
     
-    func prepareItemsForShowing(_ itemList: [ItemEntity]) {
+    func prepareItemsForShowing(_ itemList: [Entity]) {
         if itemList.count == 0 {
             view.showNoContent()
         } else {
-            
+            view.show
         }
     }
     
